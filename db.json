@@ -1,0 +1,25 @@
+{
+  "cursos": [
+    {
+      "id": 6,
+      "nombre": "Marketing Digital",
+      "descripcion": "",
+      "precio": "",
+      "imagen": "curso-marketing"
+    },
+    {
+      "id": 7,
+      "nombre": "Data Analytics",
+      "descripcion": "",
+      "precio": "",
+      "imagen": "curso-data"
+    },
+    {
+      "id": 8,
+      "nombre": "Desarrollo Front-End Avanzado",
+      "descripcion": "",
+      "precio": "",
+      "imagen": "curso-frontend2"
+    }
+  ]
+}
